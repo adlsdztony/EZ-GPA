@@ -2,7 +2,7 @@
 There are two ways to install the extension.
 
 ## 1. Install from google web store with one step (recommended)
-Please visit [chrome web store]() to download the extension.
+Please visit [chrome web store](https://chromewebstore.google.com/detail/ez-gpa/blfjiflmhnnipndcnkcigdooiajhfmdd) to download the extension.
 
 ## 2. Loading an unpacked extension
 ### Download the zip file
